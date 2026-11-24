@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**TheGreatYTJ/TheGreatYTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Yash Chaudhary</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">B.Tech CSE (IoT) Student | Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Think Beyond Limits. Solve Beyond Infinity.</i>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering student specializing in IoT at SKIT, Jaipur.
+- 💻 Interested in Software Development, Artificial Intelligence and Internet of Things.
+- 🌱 Currently strengthening my programming and problem-solving skills.
+- 🔨 Learning by building practical projects.
+- 🤝 Open to learning, collaboration and connecting with fellow developers.
+
+### 🛠️ Languages & Technologies
+
+**Programming Languages**
+- C
+- C++
+- Python
+- Java
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+### 🚀 Projects
+
+**Intern Task Tracker**
+- A web-based task management application.
+- Built using HTML, CSS, JavaScript, PHP and MySQL.
+- Developed as part of my web development training.
+
+### 🎯 Current Goals
+
+- Strengthen Data Structures and Algorithms.
+- Improve software development skills.
+- Explore AI and IoT technologies.
+- Build meaningful real-world projects.
+
+### 📫 Connect With Me
+
+- GitHub: [@TheGreatYTJ](https://github.com/TheGreatYTJ)
+
+---
+
+<p align="center">
+  <b>Learn • Build • Innovate • Repeat</b>
+</p>
